@@ -33,7 +33,7 @@ No database. No Spring Boot. Just Jersey, Jackson, ConcurrentHashMaps, and java.
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/[your-username]/SmartCampusAPI.git
+git clone https://github.com/jayp090/SmartCampusAPI.git
 ```
 
 **2. Open in NetBeans**
